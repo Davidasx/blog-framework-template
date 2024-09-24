@@ -1,5 +1,5 @@
-name: "DavidX's Blog"
-description: "Programming and more personal thoughts."
+name: "Blog Demo" # change it to a title you want
+description: "A demo blog." # change it to a description you want
 
 avatar: images/avatar.png
 favicon: images/favicon.ico
@@ -27,7 +27,7 @@ footer-text: Copyright (c) 2024 # your name here
 
 url: # YOUR_GITHUB_HANDLE.github.io
 
-# do not change anything below this line
+# do not change anything below this line!
 
 permalink: /:title/
 paginate_path: /page:num/
