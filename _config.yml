@@ -1,8 +1,8 @@
 name: "DavidX's Blog"
 description: "Programming and more personal thoughts."
 
-avatar: https://davidasx.github.io/images/avatar.png
-favicon: https://davidasx.github.io/images/favicon.ico
+avatar: images/avatar.png
+favicon: images/favicon.ico
 
 navigation:
   - name: Home
